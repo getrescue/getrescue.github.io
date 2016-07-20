@@ -55,10 +55,11 @@
                 <div class="col-lg-12">
                     <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
                     <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-                    <form name="sentMessage" id="contactForm" novalidate>
+                    <form name="sentMessage" id="contactForm" novalidate action="//getrescue.us13.list-manage.com/subscribe/post?u=b83a7fba5cfd4b3401fd0abaa&amp;id=d9a33348fa" method="post">
                         <div class="row control-group">
                             <div class="form-group col-xs-6 col-sm-5 col-sm-offset-2 col-md-4 col-md-offset-3 col-lg-4 col-lg-offset-3">
-                                <input type="email" class="form-control" placeholder="Email" id="email" required data-validation-required-message="Please enter your email.">
+                                <!--<input type="email" class="form-control" placeholder="Email" id="email" required data-validation-required-message="Please enter your email.">-->
+                                <input type="email" name="EMAIL" id="email" class="form-control form-control__input user-signup__email" pattern="/^[a-zA-Z0-9+-_]+(\.[_a-zA-Z0-9+]+)*@[a-zA-Z0-9+-_]+(\.[a-zA-Z0-9+-_]+)*(\.[a-zA-Z]+)$/" placeholder="Please enter your email" aria-required="true" required="required">
                                 <p class="help-block text-danger"></p>
                             </div>
                             <div class="form-group col-xs-1 col-md-1 col-lg-2 ">
