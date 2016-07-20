@@ -116,15 +116,15 @@
             // ---------------------------------------------------------
             //                                                       MAX
             // ---------------------------------------------------------
-            if ($this.attr("max") !== undefined || $this.attr("aria-valuemax") !== undefined) {
-              var max = ($this.attr("max") !== undefined ? $this.attr("max") : $this.attr("aria-valuemax"));
-              message = "Too high: Maximum of '" + max + "'<!-- data-validation-max-message to override -->";
-              if ($this.data("validationMaxMessage")) {
-                message = $this.data("validationMaxMessage");
-              }
-              $this.data("validationMaxMessage", message);
-              $this.data("validationMaxMax", max);
-            }
+            //if ($this.attr("max") !== undefined || $this.attr("aria-valuemax") !== undefined) {
+            //  var max = ($this.attr("max") !== undefined ? $this.attr("max") : $this.attr("aria-valuemax"));
+            //  message = "Too high: Maximum of '" + max + "'<!-- data-validation-max-message to override -->";
+            //  if ($this.data("validationMaxMessage")) {
+            //    message = $this.data("validationMaxMessage");
+            //  }
+            //  $this.data("validationMaxMessage", message);
+            //  $this.data("validationMaxMax", max);
+            //}
             // ---------------------------------------------------------
             //                                                       MIN
             // ---------------------------------------------------------
