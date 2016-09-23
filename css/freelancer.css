@@ -96,6 +96,7 @@ hr.star-primary:after {
 
 .img-centered {
     margin: 0 auto;
+    z-index: 1;
 }
 
 header {
@@ -107,19 +108,24 @@ header {
 header .container {
     padding-top: 10px;
     padding-bottom: 0px;
+    z-index:0;
 }
 
 header img {
+    position: relative;
     display: block;
     margin: 0 auto 20px;
+    z-index: 10;
 }
 
 header .intro-text .name {
+    position: relative;
     display: block;
     text-transform: uppercase;
     font-family: Open,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
+    /*z-index: 11;*/
 }
 @font-face {
   font-family: 'Open';
@@ -229,6 +235,7 @@ section.success a.active {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    z-index: 2;
 }
 
 #portfolio .portfolio-item .portfolio-link {

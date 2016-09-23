@@ -1,0 +1,27 @@
+/* =============================================================================
+   My CSS
+   ========================================================================== */
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+  position: absolute;
+  width: 100vw;
+  height: 85%;
+  background-color: #f3f3f3;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+
+.header-email {
+    position: relative;
+    z-index: 10;
+}
+
+.header-submit {
+    position: relative;
+    z-index: 10;
+}
