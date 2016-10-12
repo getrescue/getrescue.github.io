@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="900px" viewBox="0 0 1440 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Home-Desktop Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="111.230006%" id="linearGradient-1">
+            <stop stop-color="#E5212D" offset="100%"></stop>
+            <stop stop-color="#FE4A49" offset="100%"></stop>
+        </linearGradient>
+        <path id="path-2" d="M0.755217265,1136.3475 L1367.15685,2076.02381 C1522.15615,2182.54735 1730.82835,2032.15376 1654.58274,1868.9017 L830.302462,105.401305 C764.841591,-34.7811554 548.143535,-34.7811554 482.55726,105.401305"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Desktop-Copy-2">
+            <rect id="Rectangle-1" stroke="#979797" fill="url(#linearGradient-1)" x="0" y="0" width="1920" height="1080"></rect>
+            <g id="Group-10" transform="translate(-544.000000, -1026.000000)">
+                <g id="Group" opacity="0.773495802" style="mix-blend-mode: overlay;">
+                    <g id="clouds-original" transform="translate(358.000000, 0.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Mask" fill-opacity="0.5" fill="#000000" xlink:href="#path-2"></use>
+                    </g>
+                    <path d="M1670.17541,1136.3475 L303.77378,2076.02381 C148.774476,2182.54735 -59.897726,2032.15376 16.3478863,1868.9017 L840.628165,105.401305 C906.089036,-34.7811554 1122.78709,-34.7811554 1188.37337,105.401305" id="Fill-11" fill-opacity="0.75" fill="#000000"></path>
+                </g>
+                <!--<rect id="Rectangle-24" fill-opacity="0.25" fill="#E5212D" style="mix-blend-mode: hard-light;" x="544" y="1026" width="1620" height="1008"></rect>-->
+                <!--<rect id="Rectangle-24" fill-opacity="0.2" fill="#fff" style="mix-blend-mode: hard-light;" x="544" y="1026" width="1620" height="1008"></rect>-->
+
+                <!--<rect id="Rectangle-24" fill-opacity="0.1" fill="#fff" style="mix-blend-mode: hard-light;" x="544" y="1026" width="1920" height="1080"></rect>-->
+            </g>
+        </g>
+    </g>
+</svg>

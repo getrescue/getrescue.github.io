@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="101px" height="106px" viewBox="0 0 101 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0,0.328444388 L0,104.918132 L82.687334,104.918132 L82.687334,0.328444388 L1.68295727e-19,0.328444388 L0,0.328444388 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Desktop" transform="translate(-670.000000, -214.000000)">
+            <g id="Group-2" transform="translate(331.000000, 214.000000)">
+                <g id="Page-1-Copy" transform="translate(339.000000, 0.000000)">
+                    <g id="Group-13" transform="translate(0.397595, 0.149715)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-12"></g>
+                    </g>
+                    <path d="M18.1746297,56.7531498 L85.8280724,103.299286 C93.5024166,108.575847 103.83422,101.126217 100.059138,93.0396533 L59.2472732,5.68603117 C56.0061666,-1.25779811 45.2769863,-1.25779811 42.0296707,5.68603117" id="Fill-14" fill-opacity="0.5" fill="#FFFFFF"></path>
+                    <path d="M83.0849289,56.7531498 L15.4314863,103.299286 C7.75714204,108.575847 -2.57466124,101.126217 1.20042073,93.0396533 L42.0122855,5.68603117 C45.253392,-1.25779811 55.9825724,-1.25779811 59.2298879,5.68603117" id="Fill-11" fill-opacity="0.75" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
